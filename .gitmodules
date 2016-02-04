@@ -1,15 +1,15 @@
 [submodule "elisp/highlight-indentation"]
 	path = elisp/highlight-indentation
-	url = git@github.com:takekiHayashida/Highlight-Indentation-for-Emacs.git
+	url = git@github.com:kabachanta/Highlight-Indentation-for-Emacs.git
 [submodule "elisp/auto-highlight-symbol"]
 	path = elisp/auto-highlight-symbol
-	url = git@github.com:takekiHayashida/auto-highlight-symbol.git
+	url = git@github.com:kabachanta/auto-highlight-symbol.git
 [submodule "snippets/yasnippet-ruby-mode"]
 	path = snippets/ruby-mode
-	url = git@github.com:takekiHayashida/yasnippet-ruby-mode.git
+	url = git@github.com:kabachanta/yasnippet-ruby-mode.git
 [submodule "snippets/sh-mode"]
 	path = snippets/sh-mode
-	url = git@github.com:takekiHayashida/yasnippet-sh-mode.git
+	url = git@github.com:kabachanta/yasnippet-sh-mode.git
 [submodule "snippets/html-mode"]
 	path = snippets/html-mode
-	url = git@github.com:takekiHayashida/yasnippet-html-mode.git
+	url = git@github.com:kabachanta/yasnippet-html-mode.git
